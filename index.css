@@ -101,7 +101,7 @@ section {
     display: flex;
     gap: 20px; /* Gap between cards */
     width: max-content;
-    animation: marquee 5s linear infinite; /* Faster scroll */
+    animation: marquee 7s linear infinite; /* Faster scroll */
   }
   
   /* Pause scroll when hovered */
